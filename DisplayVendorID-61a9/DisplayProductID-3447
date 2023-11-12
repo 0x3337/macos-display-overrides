@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>DisplayProductName</key>
+  <string>Mi Curved Gaming Monitor 34"</string>
+  <key>DisplayProductID</key>
+  <integer>13383</integer>
+  <key>DisplayVendorID</key>
+  <integer>25001</integer>
+  <key>scale-resolutions</key>
+  <array>
+    <data>AAAUKAAACHAAAAABACAAAA==</data>
+    <data>AAAKFAAABDgAAAABACAAAA==</data>
+    <data>AAAQzAAABwgAAAABACAAAA==</data>
+    <data>AAAIZgAAA4QAAAABACAAAA==</data>
+    <data>AAANcAAABaAAAAABACAAAA==</data>
+    <data>AAAGuAAAAtAAAAABACAAAA==</data>
+  </array>
+</dict>
+</plist>
